@@ -1,5 +1,4 @@
 # Credit-Card-Score
-# Credit-Card-Offer-Acceptance
 
 ## Table of Contents 
 1. [Problem Definition](#problem-defintion)
